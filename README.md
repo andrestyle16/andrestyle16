@@ -1,6 +1,6 @@
 # Hi, I'm Andrés 🌍
 
-### Earth Systems Engineer from Chile
+### Geospatial data scientist from Chile
 
 I love nature, which is why I enjoy building spatial models and geospatial tools to monitor ecosystems, better understand how they work, and support environmental decision-making. My goal is to help preserve nature and contribute to the fight against climate change
 
