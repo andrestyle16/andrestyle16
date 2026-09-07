@@ -8,6 +8,8 @@ My work sits at the intersection of **Remote Sensing**, **Data Science**, **Data
 
 I've had the opportunity to collaborate with **universities**, **research centers**, **startups**, **governments**, **NGOs**, and **industry associations** on environmental and geospatial projects
 
+Beyond working with ecosystems through data, I've been fortunate to experience some of them firsthand, from the Amazon rainforest and Patagonia to Alaska and Iceland. Being exposed to such different landscapes has strengthened my ecological intuition and helps me bring real-world context to my work, particularly when interpreting spatial patterns, assessing the ecological plausibility of model outputs, and questioning whether geospatial products make sense beyond the data.
+
 ---
 
 ### Tech
